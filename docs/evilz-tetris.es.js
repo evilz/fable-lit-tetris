@@ -1,3 +1,4 @@
+
 var NumberStyles;
 (function(NumberStyles2) {
   NumberStyles2[NumberStyles2["AllowHexSpecifier"] = 512] = "AllowHexSpecifier";
